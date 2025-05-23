@@ -1,4 +1,13 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BNDgxNDlkYjgtMWZiZS00ZTk0LWIxNDMtYzZkYjQ5ZWI4OWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_-768x960.jpg",Mere Husband Ki Biwi
+http://index1.circleftp.net/FILE/Hindi%20Movies/2025/Mere%20Husband%20Ki%20Biwi%20%282025%29%201080p%20WEB-DL%20Hindi%20x264/Mere%20Husband%20Ki%20Biwi%20%282025%29%201080p%20WEB-DL%20Hindi%20x264.mkv
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2022/06/MV5BMTYzNjAwNzc4OF5BMl5BanBnXkFtZTgwODY1MTk3MTE@._V1_-768x1025.jpg",Filmistaan (2012) 
+http://index1.circleftp.net/FILE/Hindi%20Movies/2012/Filmistaan%20%282012%29%201080p%20WEB-DL%20Hindi%20x264/Filmistaan%20%282012%29%201080p%20WEB-DL%20Hindi%20x264.mkv
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BN2YxMTU1YzAtZjkzMC00YzU0LWFkMGQtYTIyYWQyODExODU0XkEyXkFqcGc@._V1_-768x960.jpg",Ground Zero (2025)
+http://index1.circleftp.net/FILE/Hindi%20Movies/2025/Ground%20Zero%20%282025%29%201080p%20HDRip%20Hindi%20x264/Ground%20Zero%20%282025%29%201080p%20HDRip%20Hindi%20x264.mkv
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/03/MV5BZjc3NzQyMTItMjBkOS00NTE4LTk4NDMtNTRiYzdjN2U2N2QwXkEyXkFqcGc@._V1_-240x300.jpg",Sikandar (2025)
 http://index1.circleftp.net/FILE/Hindi%20Movies/2025/Sikandar%20%282025%29%201080p%20PRE%20HDRip%20Hindi%20x264/Sikandar%20%282025%29%201080p%20PRE%20HDRip%20Hindi%20x264.mkv
 
@@ -11,6 +20,19 @@ http://index1.circleftp.net/FILE/Hindi%20Movies/2025/Costao%20%282025%29%201080p
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BNWYwYjljNzEtNTVlMy00YmI2LWE5YzktMjhmZjI2NGNhZDAxXkEyXkFqcGc@._V1_-200x300.jpg",The Bhootnii (2025) 
 http://index1.circleftp.net/FILE/Hindi%20Movies/2025/The%20Bhootnii%20%282025%29%201080p%20HDTS%20Hindi%20x264/The%20Bhootnii%20%282025%29%201080p%20HDTS%20Hindi%20x264.mkv
 
+
+#EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BZGM1N2ZiZTYtNDA5MS00NmE5LThhYzctNWNhMDdjOGMwNGQ0XkEyXkFqcGc@._V1_-768x1024.jpg",Odela 2 (2025)
+http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2025/Odela%202%20%282025%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x265/Odela%202%20%282025%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x265.mkv
+
+#EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BNzQ1YmVjNjAtZDRhYi00MDk0LThjYjEtNWM0Y2ZmZWEwNzUxXkEyXkFqcGc@._V1_-683x1024.jpg",Ten Hours (2025)
+http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others/2025/Ten%20Hours%20%282025%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BTam%2BMal%2BKan%5D%20x264/Ten%20Hours%20%282025%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BTam%2BMal%2BKan%5D%20x264.mkv
+
+#EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BZjA0MDQ3ZjYtMmUzNC00ZjRiLWJhM2MtMGVkYzQ2ZGIxMDlkXkEyXkFqcGc@._V1_-768x960.jpg",Thiragabadara Saami (2024)
+http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2024/Thiragabadara%20Saami%20%282024%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264/Thiragabadara%20Saami%20%282024%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264.mkv
+
+#EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BOTM4NjFmNzMtYzhjMC00NmUxLWJjMDAtOGYzY2I4N2FiN2M3XkEyXkFqcGc@._V1_.jpg",Rama Rao on Duty (2022) 
+http://ftp17.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2022/Rama%20Rao%20on%20Duty%20%282022%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20H264/Rama%20Rao%20on%20Duty%20%282022%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20H264.mkv
+
 #EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="https://i.ibb.co.com/RXLGXhk/gg.jpg",Dragon (2025)
 http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2025/Dragon%20%282025%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264/Dragon%20%282025%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20x264.mkv
 
@@ -22,6 +44,7 @@ http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2
 
 #EXTINF:-1 tvg-id="<7.1>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="HINDI DUBBING MOVIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/05/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_-202x300.jpg",Good Bad Ugly (2025)
 http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2025/Good%20Bad%20Ugly%20%282025%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20H264/Good%20Bad%20Ugly%20%282025%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTamil%5D%20H264.mkv
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshows" group-title="TV SERIES" tvg-logo="http://circleftp.net/wp-content/uploads/2025/03/MV5BZTBiMWYyODEtNTcyOS00NzNlLTliOTQtMDJjNDRkMjJhYTEzXkEyXkFqcGc@._V1_.jpg",Khakee The Bengal Chapter (2025) S1E1
 http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Khakee%20The%20Bengal%20Chapter%20%28TV%20Series%202025-%29/Season%201%201080p/Khakee.The.Bengal.Chapter.S01E01.City.of.Joy.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-mkvCinemas.mkv
